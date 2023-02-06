@@ -1,16 +1,20 @@
-### Hi there 👋
+# What's up?
 
-<!--
-**LeOptix/LeOptix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!
+My nickname is **Optix**, and I am novice developer.
+Currently I am learning Web Development and U.E. Blueprints
 
-Here are some ideas to get you started:
+## Projects?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yeah, I am part of a bunch of projects, like for example
+
+- **AvdanOS** - _Worflow, reimagined._
+- **Nebula** - A brand new Discord bot.
+- **Project Leno** - _Made by gamers, for gamers._ `(Non open-source, btw)`
+
+## What am I working on?
+
+On a lot of cool things, and soon I will release all of them. For now, I will just leave here two names:
+***Revo*** & ***Optix Arts***.
+
+### Cya!
