@@ -1,20 +1,43 @@
+(ESP)
+# ¿Qué tal?
+
+### ¡Hola! Hello! Salam! Bonjour! Hallo! Priviet!
+
+Soy *Optix*, desarrollador y fundador de **Revo**, empresa Española.
+
+Diseñador de IU con +2 años de experiencia y programador novato, PHP, HTML, CSS.
+
+## Proyectos:
+(Tanto mis proyectos como aquellos de los que formo parte)
+
+- AiraCloud - *Lleva tu código a otro nivel.* (competencia directa con replit xD)
+- AvdanOS - *Flujo de trabajo, reimaginado.* (SO basado en Arch, inspirando en el concepto de Avdan)
+- Project Leno - *Un hogar hecho por gamers, para gamers.* (Tienda de videojuegos para Windows y Android (y en un futuro Linux y mac))
+
+## Sobre mi:
+galleta
+
+Nos vemos por allí, ¡chao!
+
+-
+
+(ENG)
 # What's up?
 
-Hello there!
-My nickname is **Optix**, and I am developer, CEO of Revo.
-Currently I am learning Web Development and U.E. Blueprints.
+### ¡Hola! Hello! Salam! Bonjour! Hallo! Priviet!
 
-## Projects?
+I am *Optix*, developer and founder of **Revo**, spanish company.
 
-Yeah, I am part of a bunch of projects, like:
+UI designer with +2 years of experience, and novice developer, PHP, HTML, CSS.
 
-- **AvdanOS** - _Worflow, reimagined._ `OpenSource`
-- **Nebula** - A brand new Discord bot. `OpenSource`
-- **Project Leno** - _Made by gamers, for gamers._ `NON OpenSource`
-- **AiraCares** by Revo - (Cooming soon)
+## Projects:
+(Mine and projects I am part of)
 
-## What am I working on?
+- AiraCloud - *Bring your code to other level.* (direct competence with replit xD)
+- AvdanOS - *Workflow, reimagined.* (Arch based OS, inspired by Avdan's concept)
+- Project Leno - *A home made by gamers, for gamers.* (game store for Windows and Android (and in the future for Linux and mac))
 
-Currently I am focusing on **AvdanOS** project (check out them on GitHub!) and on **AiraCares**. I will drop here more info asap!
+## about me:
+cookie
 
-### Cya!
+See you there, bye!
