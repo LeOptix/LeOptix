@@ -1,43 +1,33 @@
-(ESP)
-# ¿Qué tal?
+# ¡Hola! Soy Zakaria *(tmb Optix)*
 
-### ¡Hola! Hello! Salam! Bonjour! Hallo! Priviet!
+Bienvenido a mi perfil de GitHub. Me llamo Zakaria, vivo en España, tengo 3 años de experiencia con diseño de UI/UX, 1 año de edición de video, y ahora estoy dando lo básico de desarrollo web Vanilla + PHP.
 
-Soy *Optix*, desarrollador y fundador de **Revo**, empresa Española.
+### ¿Proyectos?
 
-Diseñador de IU con +2 años de experiencia y programador novato, PHP, HTML, CSS.
+Sip, unos cuantos
+---
+- Swiftly - Mini*empresa* de software - [Visitar web*](https://swiftly.stuxiom.com)
+- Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
+- AvdanOS - SO basado en Arch - [Visitar web](https://avdanos.com)
+---
 
-## Proyectos:
-(Tanto mis proyectos como aquellos de los que formo parte)
+### ¿Habilidades concretas?
 
-- AiraCloud - *Lleva tu código a otro nivel.* (competencia directa con replit xD)
-- AvdanOS - *Flujo de trabajo, reimaginado.* (SO basado en Arch, inspirando en el concepto de Avdan)
-- Project Leno - *Un hogar hecho por gamers, para gamers.* (Tienda de videojuegos para Windows y Android (y en un futuro Linux y mac))
+Sip, también unas cuantas
+---
+- Diseño:
+- - Figma - 2 años
+- Edición de video
+- - KDEnlive - 1 año
+- - YouCut - ~6 meses
+- Programación
+- - HTML - ~9 meses
+- - CSS - ~9 meses
+- - PHP - 2 meses
+---
 
-## Sobre mi:
-galleta
+### ¿Aceptas comisiones? (Pedidos)
 
-Nos vemos por allí, ¡chao!
+Actualmente NO acepto comisiones. Pero pronto volveré a aceptarlas, solo tengo un par de asuntos que arreglar.
 
--
-
-(ENG)
-# What's up?
-
-### ¡Hola! Hello! Salam! Bonjour! Hallo! Priviet!
-
-I am *Optix*, developer and founder of **Revo**, spanish company.
-
-UI designer with +2 years of experience, and novice developer, PHP, HTML, CSS.
-
-## Projects:
-(Mine and projects I am part of)
-
-- AiraCloud - *Bring your code to other level.* (direct competence with replit xD)
-- AvdanOS - *Workflow, reimagined.* (Arch based OS, inspired by Avdan's concept)
-- Project Leno - *A home made by gamers, for gamers.* (game store for Windows and Android (and in the future for Linux and mac))
-
-## about me:
-cookie
-
-See you there, bye!
+¡Nos vemos por ahí!
