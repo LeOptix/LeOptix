@@ -9,6 +9,8 @@ Sip, unos cuantos
 - Swiftly - Mini*empresa* de software - [Visitar web*](https://swiftly.stuxiom.com)
 - Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
 - AvdanOS - SO basado en Arch - [Visitar web](https://avdanos.com)
+
+* Sitio web bajo tareas de reconstrucción, si vas ahora estará incompleto.
 ---
 
 ### ¿Habilidades concretas?
