@@ -1,16 +1,20 @@
-# ¡Hola! Soy Zakaria *(tmb Optix)*
+# ¡Hola! Soy *Optix*
 
-Bienvenido a mi perfil de GitHub. Me llamo Zakaria, vivo en España, tengo 3 años de experiencia con diseño de UI/UX, 1 año de edición de video, y ahora estoy dando lo básico de desarrollo web Vanilla + PHP.
+Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, tengo 3 años de experiencia con diseño de UI/UX, 1 año de edición de video, y ahora estoy dando lo básico de desarrollo web Vanilla.
 
 ### ¿Proyectos?
 
 Sip, unos cuantos
 ---
-- Swiftly - Mini*empresa* de software - [Visitar web*](https://swiftly.stuxiom.com)
+Ya empezados / Soy miembro
+- Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)
 - Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
 - AvdanOS - SO basado en Arch - [Visitar web](https://avdanos.com)
+- Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
+- AR OS - Otro SO - [Repositorio](https://github.com/AR4789-OS)
 
-* Sitio web bajo tareas de reconstrucción, si vas ahora estará incompleto.
+Empezamos pronto
+- z4K - Estudio de videojuegos en Roblox - **Pronto empezamos**
 ---
 
 ### ¿Habilidades concretas?
@@ -18,17 +22,16 @@ Sip, unos cuantos
 Sip, también unas cuantas
 ---
 - Diseño:
-- - Figma - 2 años
+- - Figma - 3 años
 - Edición de video
 - - KDEnlive - 1 año
-- - YouCut - ~6 meses
+- - YouCut - ~9 meses
 - Programación
-- - HTML - ~9 meses
-- - CSS - ~9 meses
-- - PHP - 2 meses
+- - HTML - 1 año
+- - CSS - 1 año
 ---
 
-### ¿Aceptas comisiones? (Pedidos)
+### ¿Aceptas comisiones? (Encargos / trabajos)
 
 Actualmente NO acepto comisiones. Pero pronto volveré a aceptarlas, solo tengo un par de asuntos que arreglar.
 
