@@ -6,16 +6,14 @@ Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, tengo 3 a
 
 Sip, unos cuantos
 ---
-Ya empezados / Soy miembro
+Mis proyectos
 - Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)
+- z4K Studios - Estudio de videojuegos indie (Roblox) - [Visitar web](http://z4k.rf.gd)
+Proyectos de los que soy parte
 - Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
 - AvdanOS - SO basado en Arch - [Visitar web](https://avdanos.com)
 - Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
-- AR OS - Otro SO - [Repositorio](https://github.com/AR4789-OS)
-
-Empezamos pronto
-- z4K - Estudio de videojuegos en Roblox - **Pronto empezamos**
----
+- MiracleOS - Otro SO - [Visitar web](https://miracle-os.github.io/)
 
 ### ¿Habilidades concretas?
 
