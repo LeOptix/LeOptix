@@ -8,12 +8,11 @@ Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, y tengo 3
 
 ### Posiciones
 ---
-CEO Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)
--
-Diseñador en Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
-Web dev y diseñador en MiracleOS - SO basado en Arch - [Visitar web](https://miracle-os.github.io/)
-Diseñador en AvdanOS - Otro SO basado en Arch - [Visitar web](https://avdanos.com)
-Diseñador en Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
+- **CEO Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)**
+- Diseñador en Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
+- Web dev y diseñador en MiracleOS - SO basado en Arch - [Visitar web](https://miracle-os.github.io/)
+- Diseñador en AvdanOS - Otro SO basado en Arch - [Visitar web](https://avdanos.com)
+- Diseñador en Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
 
 ### Habilidades concretas
 ---
