@@ -1,29 +1,26 @@
 # ¡Hola! Soy *Optix*
 
-Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, tengo 3 años de experiencia con diseño de UI/UX y 1 año de desarrollo web.
+Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, y tengo 3 años de experiencia con diseño de UI/UX y 1 año de desarrollo web.
 
-### ¿Proyectos?
-
-Sip, unos cuantos
+### Proyectos abiertos
 ---
-Mis proyectos
-- Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)
+- Optix DevHome - Una aplicación multiplataforma para facilitar el desarrollo. Aún en desarrollo XD. - [Repositorio](https://github.com/LeOptix/Optix-DevHome)
+
+### Posiciones
 ---
-Proyectos de los que soy parte
-- Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
-- AvdanOS - SO basado en Arch - [Visitar web](https://avdanos.com)
-- Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
-- MiracleOS - Otro SO - [Visitar web](https://miracle-os.github.io/)
+CEO Swiftly - Mini*empresa* de software - [Visitar web](https://swiftly.stuxiom.com)
+-
+Diseñador en Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
+Web dev y diseñador en MiracleOS - SO basado en Arch - [Visitar web](https://miracle-os.github.io/)
+Diseñador en AvdanOS - Otro SO basado en Arch - [Visitar web](https://avdanos.com)
+Diseñador en Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
 
-### ¿Habilidades concretas?
-
-Sip, también unas cuantas
+### Habilidades concretas
 ---
 - Diseño:
 - - Figma - 3 años
 - Edición de video
 - - KDEnlive - 1 año
-- - YouCut - ~9 meses
 - Programación
 - - HTML - 1 año
 - - CSS - 1 año
