@@ -4,12 +4,11 @@ Bienvenido a mi perfil de GitHub. Me llamo "*Optix*", vivo en España, y tengo 3
 
 ### Proyectos abiertos
 ---
-- Optix DevHub - Una aplicación CLI para facilitar el desarrollo. Aún en desarrollo XD. - [Repositorio](https://github.com/LeOptix/Optix-DevHub)
+- Optix DevHub - Una aplicación CLI para facilitar el desarrollo. Aún en desarrollo. - [Repositorio](https://github.com/LeOptix/Optix-DevHub)
 
 ### Posiciones
 ---
 - **CEO Swiftly - Mini*empresa* de software - (Enlace a la web retirado. Razón: me retiraron el hosting XD)**
-- Diseñador en Project Leno - Launcher de videojuegos - [Servidor de Discord](https://discord.gg/PKY9TPrN)
 - Web dev y diseñador en MiracleOS - SO basado en Arch - [Visitar web](https://miracle-os.github.io/)
 - Diseñador en AvdanOS - Otro SO basado en Arch - [Visitar web](https://avdanos.com)
 - Diseñador en Nebula - Bot multiplataforma (Discord, WhatsApp, Guilded...) - [Repositorio](https://github.com/NebulaTheBot)
