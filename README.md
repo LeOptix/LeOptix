@@ -8,6 +8,6 @@ Soy programador Lua & web y diseñador gráfico con años de experiencia. ¿Qué
 
 ### Acepto comisiones
 
-Sip, si te interesa contratarme [entra aquí](https://optix.rf.gd/bio/#trabajos) y hagamos algo épico.
+Sip, si te interesa contratarme [entra aquí](https://optix.rf.gd/) y hagamos algo épico.
 
 ¡Nos vemos por ahí, camarada!
