@@ -4,7 +4,7 @@ Soy programador Lua & web y diseñador gráfico con años de experiencia. ¿Qué
 
 - 3 años de experiencia diseñando en Figma.
 - 2 años de experiencia con desarrollo en Lua
-- Ahora estoy aprendiendo C y React.
+- Ahora estoy aprendiendo React.
 
 ### Acepto comisiones
 
